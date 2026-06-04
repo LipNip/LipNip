@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🍏 Welcome to my Digital Space
 
-<!--
-**LipNip/LipNip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Vitaliy** — a 15yo full-stack developer engineering seamless web environments. 
 
-Here are some ideas to get you started:
+Currently focused on building the **cloud_pc** ecosystem: a custom, self-hosted cloud platform where clean UI meets powerful backends. Driven by design, powered by code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+*   **Frontend:** JavaScript, Tailwind CSS, HTML5/CSS3
+*   **Backend:** Node.js
+*   **Database:** MongoDB
+*   **Infrastructure:** Self-hosted Ubuntu Server, Linux
+
+### ⚡ What I'm doing right now
+- ☁️ Expanding the **cloud_pc** architecture (Storage, Messenger, Games)
+- 🍏 Perfecting glassmorphism and fluid UI aesthetics
+- 🛠️ Optimizing hardware and server performance
+
+---
+*“Simplicity is the ultimate sophistication.”*
