@@ -21,4 +21,5 @@ I'm on a mission to assemble a team of passionate developers and creative minds.
 If you appreciate clean architecture, beautiful design, and want to build things that actually matter — let's be friends. 
 
 **Drop me a message. Let's team up and collaborate.**
+---
 *“Simplicity is the ultimate sophistication.”*
