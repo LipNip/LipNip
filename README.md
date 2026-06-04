@@ -16,4 +16,9 @@ Currently focused on building the **cloud_pc** ecosystem: a custom, self-hosted 
 - 🛠️ Optimizing hardware and server performance
 
 ---
+🚀 Join the journey
+I'm on a mission to assemble a team of passionate developers and creative minds. I am looking for my tribe — people who love coding, tech, and building cool stuff as much as I do.
+If you appreciate clean architecture, beautiful design, and want to build things that actually matter — let's be friends. 
+
+**Drop me a message. Let's team up and collaborate.**
 *“Simplicity is the ultimate sophistication.”*
