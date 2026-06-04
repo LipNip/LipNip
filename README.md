@@ -1,4 +1,4 @@
-# 🍏 Welcome to my Digital Space
+# 👋 Welcome to my Digital Space
 
 Hi, I'm **Vitaliy** — a 15yo full-stack developer engineering seamless web environments. 
 
