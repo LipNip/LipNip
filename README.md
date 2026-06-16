@@ -23,3 +23,15 @@ If you appreciate clean architecture, beautiful design, and want to build things
 **Drop me a message. Let's team up and collaborate.**
 ---
 *“Simplicity is the ultimate sophistication.”*
+
+<div align="center">
+  <a href="https://cloud-pc.tech">
+    <img src="https://img.shields.io/badge/Website-cloud_pc-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://t.me/lipnipqq">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.tiktok.com/@lip_nip">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</div>
