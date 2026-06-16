@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
+
 # 👋 Welcome to my Digital Space
 
 Hi, I'm **Vitaliy** — a 15yo full-stack developer engineering seamless web environments. 
