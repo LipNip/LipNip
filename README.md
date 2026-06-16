@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://cloud-pc.tech">
-    <img src="https://img.shields.io/badge/Website-cloud_pc-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
+    <img src="https://img.shields.io/badge/-Cloud%20PC-000000?style=for-the-badge&logo=icloud&logoColor=white" height="45" alt="Cloud PC" />
+  </a>&nbsp;&nbsp;
   <a href="https://t.me/lipnipqq">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="45" alt="Telegram" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@lip_nip">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="45" alt="TikTok" />
   </a>
 </div>
 
