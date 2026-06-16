@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://cloud-pc.tech">
     <!-- Зверни увагу на назву файлу (coud) -->
-    <img src="./coud-pc_logo.png" height="45" alt="Cloud PC" style="border-radius: 4px;" />
+    <img src="./сoud-pc_logo.png" height="45" alt="Cloud PC" style="border-radius: 4px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://t.me/lipnipqq">
