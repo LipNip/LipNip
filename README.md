@@ -1,14 +1,15 @@
 <div align="center">
   <a href="https://cloud-pc.tech">
-    <img src="./cloud-pc%20logo.jpeg" height="55" style="vertical-align: middle;"/><img src="https://img.shields.io/badge/CLOUD--PC-ffffff?style=for-the-badge" height="55" style="vertical-align: middle;"/>
+    <!-- Зверни увагу на назву файлу (coud) -->
+    <img src="./coud-pc_logo.png" height="45" alt="Cloud PC" style="border-radius: 4px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://t.me/lipnipqq">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="55" style="vertical-align: middle;" alt="Telegram" />
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="45" alt="Telegram" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.tiktok.com/@lip_nip">
-    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="55" style="vertical-align: middle;" alt="TikTok" />
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="45" alt="TikTok" />
   </a>
 </div>
 
