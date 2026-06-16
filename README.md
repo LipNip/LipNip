@@ -1,10 +1,13 @@
 <div align="center">
   <a href="https://cloud-pc.tech">
-    <img src="https://img.shields.io/badge/-Cloud%20PC-000000?style=for-the-badge&logo=icloud&logoColor=white" height="45" alt="Cloud PC" />
+    <!-- %20 — це пробіл у назві -->
+    <img src="./cloud-pc%20logo.jpeg" height="45" alt="Cloud PC" style="border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
   </a>&nbsp;&nbsp;
+  
   <a href="https://t.me/lipnipqq">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="45" alt="Telegram" />
   </a>&nbsp;&nbsp;
+  
   <a href="https://www.tiktok.com/@lip_nip">
     <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="45" alt="TikTok" />
   </a>
